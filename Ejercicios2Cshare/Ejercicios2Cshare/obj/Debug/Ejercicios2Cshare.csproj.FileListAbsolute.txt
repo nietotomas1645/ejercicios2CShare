@@ -1,0 +1,7 @@
+C:\Users\Tomas\source\repos\Ejercicios2Cshare\Ejercicios2Cshare\obj\Debug\Ejercicios2Cshare.csprojAssemblyReference.cache
+C:\Users\Tomas\source\repos\Ejercicios2Cshare\Ejercicios2Cshare\obj\Debug\Ejercicios2Cshare.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\source\repos\Ejercicios2Cshare\Ejercicios2Cshare\bin\Debug\Ejercicios2Cshare.exe.config
+C:\Users\Tomas\source\repos\Ejercicios2Cshare\Ejercicios2Cshare\bin\Debug\Ejercicios2Cshare.exe
+C:\Users\Tomas\source\repos\Ejercicios2Cshare\Ejercicios2Cshare\bin\Debug\Ejercicios2Cshare.pdb
+C:\Users\Tomas\source\repos\Ejercicios2Cshare\Ejercicios2Cshare\obj\Debug\Ejercicios2Cshare.exe
+C:\Users\Tomas\source\repos\Ejercicios2Cshare\Ejercicios2Cshare\obj\Debug\Ejercicios2Cshare.pdb
